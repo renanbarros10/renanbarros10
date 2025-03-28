@@ -1,4 +1,4 @@
-## Hi there 👋
+## olá 👋
 Sou Renan Barros Estou em busca da minha primeira experiência profissional na área de Análise e Desenvolvimento de 
 Sistemas, onde posso aplicar e aprimorar os conhecimentos adquiridos no início da minha formação 
 acadêmica. Meu objetivo é desenvolver habilidades técnicas e práticas, contribuindo ativamente para a 
